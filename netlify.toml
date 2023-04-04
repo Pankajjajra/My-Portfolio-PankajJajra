@@ -1,1 +1,2 @@
 command = "CI= npm run build"
+CI=true npm run build
