@@ -18,9 +18,8 @@ const Home = (props) => {
                           style={{ width: "266px", overflow: "hidden" }}
                         >
                           <b className="is-hidden">Pankaj Jajra</b>
-                          <b className="is-hidden">React Js</b>
-                          <b className="is-hidden">TypeScript</b>
-                          <b className="is-hidden">Redux</b>
+                          <b className="is-hidden">Full Stack Developer</b>
+                          <b className="is-visible">React Js</b>
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
