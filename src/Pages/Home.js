@@ -18,7 +18,7 @@ const Home = (props) => {
                           style={{ width: "266px", overflow: "hidden" }}
                         >
                           <b className="is-hidden">Pankaj Jajra</b>
-                          <b className="is-hidden">Full Stack</b>
+                          <b className="is-hidden">React Native</b>
                           <b className="is-visible">React Js</b>
                         </span>
                       </h1>
@@ -90,15 +90,20 @@ const Home = (props) => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        At present time I'm working on a React Js Developer, as
-                        a React Js Developer I design and create various
-                        websites. And as UI/UX Designer I create many designs
-                        for Web Applications and Mobile Responsive applications.
-                        I create the beauty of the site. I'm responsible for the
-                        site's technical aspects, such as its performance and
-                        capacity, which are measures of a website's speed and
-                        how much traffic the site can handle. In addition, I
-                        also create content for the site.
+                        As a React Native Developer, my work revolves around
+                        crafting top-notch mobile applications that excel in
+                        both aesthetics and performance. I specialize in
+                        designing user interfaces that are intuitive and
+                        visually appealing, ensuring seamless navigation and
+                        engagement. Alongside this, I prioritize optimizing the
+                        technical aspects of the apps, such as speed and
+                        scalability, to deliver a smooth user experience even
+                        under high traffic. Additionally, I contribute to
+                        content creation, refining copywriting and multimedia
+                        elements to enhance the overall quality of the app. My
+                        focus is on delivering professional-grade solutions that
+                        meet the highest standards of usability and
+                        functionality.
                       </p>
                     </div>
                   </div>
@@ -110,10 +115,13 @@ const Home = (props) => {
                         className="fa fa-pencil-square-o love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>Working Hard</h3>
+                      <h3>Designing and Creating Apps</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Always believe in hard-work in my profession</p>
+                      <p>
+                        I leverage my expertise in React Native to design and
+                        develop engaging mobile applications.
+                      </p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -125,7 +133,10 @@ const Home = (props) => {
                       <h3>UI/UX Design</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Love to do UI/UX design for new product</p>
+                      <p>
+                        I pay close attention to user interactions, ensuring
+                        seamless navigation and optimal usability.
+                      </p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -134,19 +145,26 @@ const Home = (props) => {
                         className="fa fa-globe love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>Web Design</h3>
+                      <h3>Mobile Responsive Design</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Passionate about Web Design from start</p>
+                      <p>
+                        I specialize in crafting mobile-responsive designs that
+                        adapt seamlessly to various screen sizes and
+                        orientations
+                      </p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
                     <div className="love-details" data-wow-delay=".4s">
                       <i className="fa fa-cog love-icon" aria-hidden="true"></i>
-                      <h3>Web Development</h3>
+                      <h3>Performance Optimization</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Created all types of modern web development.</p>
+                      <p>
+                        I am responsible for optimizing the performance and
+                        capacity of the applications I develop.
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -174,27 +192,30 @@ const Home = (props) => {
                         <div className="underline2 no-margin"></div>
                       </div>
                       <p className="wow fadeIn">
-                        I am a web developer from Rajasthan, India. I enjoy
-                        building everything from small business sites to rich
-                        interactive web applications. if you are a business
-                        seeking a web presence or an employer looking to hire,
-                        you can get in touch with me{" "}
+                        I'm a mobile app developer based in Rajasthan, India,
+                        specializing in React Native. I thrive on building a
+                        wide range of apps, from simple business solutions to
+                        feature-rich, interactive experiences. Whether you're a
+                        business in need of a mobile presence or an employer
+                        seeking talent, feel free to reach out to me you can get
+                        me{" "}
                         <a className="underline2" href="#contact">
                           {" "}
                           here.
                         </a>{" "}
-                        I design and build digital products with simple and
-                        beautiful code. I specialize in custom web theme
-                        development and love what I do.
+                        My passion lies in crafting digital products with
+                        elegant, efficient code. I excel in custom mobile app
+                        development and find immense joy in my work. My journey
+                        as a mobile app developer began during my college days,
+                        and since then, I've contributed remotely to various
+                        agencies, provided consultation to startups, and
+                        collaborated with talented individuals to bring digital
+                        products to life for both business and consumer
+                        audiences.
                         <br />
-                        <br />
-                        Since beginning my journey as a web developer in my
-                        college days, I've done remote work for agencies,
-                        consulted for startups, and collaborated with talented
-                        people to create digital products for both business and
-                        consumer use. I'm quietly confident, naturally curious,
-                        and perpetually working on improving my chops one design
-                        problem at a time.
+                        <br />I approach challenges with quiet confidence,
+                        fueled by a natural curiosity and a constant drive to
+                        refine my skills with each project I undertake.
                       </p>
                       <a
                         className="about-link-1"
@@ -224,7 +245,7 @@ const Home = (props) => {
                         <h3 className="Count">10+</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Web Design Completed</p>
+                        <p>App Completed</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -245,7 +266,7 @@ const Home = (props) => {
                           className="fa fa-bolt stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">03</h3>
+                        <h3 className="Count">02</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>Website Created</p>
@@ -292,15 +313,17 @@ const Home = (props) => {
                 <div className="col-md-6">
                   <div className="skill-details text-left">
                     <p>
-                      UI/UX involves planning and iterating a site's structure
-                      and layout. Once the proper information architecture is in
-                      place, I design the visual layer to create a beautiful
-                      user experience. Front End Development is building out the
-                      visual components of a website. Using HTML, CSS, and
-                      Javascript, I build fast, interactive websites. This also
-                      may include a CMS, apis, or other integrations. The work
-                      that I am most interested in is 0-1 work (helping you get
-                      your idea into the world).
+                      React Native development involves planning and iterating
+                      on an app's structure and layout. Once the proper
+                      information architecture is in place, I design the visual
+                      layer to create a seamless user experience. Front End
+                      Development in React Native is about building out the
+                      visual components of a mobile application. Using React
+                      Native, I develop fast, interactive apps for both iOS and
+                      Android platforms. This may also include integrating with
+                      various APIs or other backend services. The work that I am
+                      most interested in is turning your app idea into a
+                      reality, from inception to launch.
                     </p>
                   </div>
                 </div>
@@ -310,19 +333,19 @@ const Home = (props) => {
                       <div className="col">
                         <ul id="skill-main">
                           <li>
-                            <h3>HTML / CSS - 70%</h3>
+                            <h3>React Native - 90%</h3>
                           </li>
                           <li>
-                            <h3>React JS - 80%</h3>
+                            <h3>TypeScript - 60%</h3>
                           </li>
                           <li>
-                            <h3>TypeScript - 80%</h3>
+                            <h3>React JS - 60%</h3>
                           </li>
                           <li>
-                            <h3>Redux - 70%</h3>
+                            <h3>Redux - 80%</h3>
                           </li>
                           <li>
-                            <h3>Npm Modules Used - 50%</h3>
+                            <h3>Npm Modules Used - 80%</h3>
                           </li>
                         </ul>
                       </div>
@@ -348,7 +371,7 @@ const Home = (props) => {
                       <div className="underline2"></div>
                       <p>
                         I like to code things from scratch, and enjoy bringing
-                        ideas to life in the browser.
+                        ideas to life in the App.
                       </p>
                     </div>
                   </div>
@@ -441,7 +464,29 @@ const Home = (props) => {
                   </div>
                 </div>
                 <div className="row love-row">
-                  <div className="col-md-6 col-sm-12">
+                  <div className="col-md-4 col-sm-12">
+                    <div className="exp-details" data-wow-delay=".2s">
+                      <div className="exp-hover"></div>
+                      <div className="exp-main">
+                        <i
+                          className="fa fa-building exp-icon"
+                          aria-hidden="true"
+                        ></i>
+                        <h3 style={{ color: "#4d4d4d" }}>
+                          iWebwiser Pvt. Ltd.
+                        </h3>
+                        <h4>React Native Developer</h4>
+                        <h2>2024-present</h2>
+                        <div className="underline1"></div>
+                        <div className="underline2"></div>
+                        <p>
+                          At iWebwiser, I am working as a React Native Developer
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="col-md-4 col-sm-12">
                     <div className="exp-details" data-wow-delay=".2s">
                       <div className="exp-hover"></div>
                       <div className="exp-main">
@@ -450,18 +495,18 @@ const Home = (props) => {
                           aria-hidden="true"
                         ></i>
                         <h3 style={{ color: "#4d4d4d" }}>Itech Solutions</h3>
-                        <h4>PHP/Full Stack Developer</h4>
-                        <h2>2022-2022</h2>
+                        <h4>React Native Developer</h4>
+                        <h2>2022-2023 (1 year+)</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          I did Full Time Job at Itech Solution Around 5-6
-                          months as a PHP & Full Stack Developer
+                          I did Full Time Job at Itech Solution Around 1 year+
+                          as a React Native Developer
                         </p>
                       </div>
                     </div>
                   </div>
-                  <div className="col-md-6 col-sm-12">
+                  <div className="col-md-4 col-sm-12">
                     <div className="exp-details" data-wow-delay=".3s">
                       <div className="exp-hover"></div>
                       <div className="exp-main">
@@ -471,12 +516,12 @@ const Home = (props) => {
                         ></i>
                         <h3 style={{ color: "#4d4d4d" }}>Samta</h3>
                         <h4>React Js Developer</h4>
-                        <h2>2022-present</h2>
+                        <h2>2022-2022 (6 months)</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          At Samta, I was working as a React Developer &amp;
-                          Full Stack
+                          At Samta, I did remote Job at Samta Around 6 months+
+                          as a React Js Developer
                         </p>
                       </div>
                     </div>
@@ -510,7 +555,7 @@ const Home = (props) => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/design-development.jpg"
+                          src="assets/img/service/App.jpg"
                           alt="design-development"
                         />
                       </div>
@@ -556,7 +601,7 @@ const Home = (props) => {
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/analytics.jpg"
+                          src="assets/img/service/mobile-friendly.jpg"
                           alt="analytics"
                         />
                       </div>
@@ -565,12 +610,12 @@ const Home = (props) => {
                           className="fa fa-tachometer service-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Analytics</h3>
+                        <h3>Mobile Responsive Design</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Get insights into who is browsing your site so that
-                          you can make smarter business decisions.
+                          A responsive design makes your app accessible to all
+                          users, regardless of their device.
                         </p>
                       </div>
                     </div>
@@ -588,12 +633,12 @@ const Home = (props) => {
                           className="fa fa-desktop exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Mobile-friendly</h3>
+                        <h3>Cross Platform</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          A responsive design makes your website accessible to
-                          all users, regardless of their device.
+                          cross-platform capability allows for creating apps
+                          compatible with iOS and Android.
                         </p>
                       </div>
                     </div>
@@ -611,12 +656,12 @@ const Home = (props) => {
                           className="fa fa-search exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Website Rank</h3>
+                        <h3>Performance Optimization</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
                           Looking to improve your page performance, SEO, or user
-                          experience? Request a free site audit.
+                          experience?
                         </p>
                       </div>
                     </div>
@@ -634,12 +679,11 @@ const Home = (props) => {
                           className="fa fa-file exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Content Management</h3>
+                        <h3>UI/UX Design</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Custom theme and plugin development. Easily update
-                          site content with knowledge of powerful code.
+                        I pay close attention to user interactions, ensuring seamless navigation and optimal usability
                         </p>
                       </div>
                     </div>
@@ -727,7 +771,7 @@ const Home = (props) => {
                                       Not only the site is to design, but the
                                       code is also very clean and slick. Love
                                       the way he achieved the translations
-                                      portion of the site.”
+                                      portion of the app.”
                                       <br />
                                       <span>Shahadat Mahapatra</span>
                                     </p>
@@ -746,194 +790,6 @@ const Home = (props) => {
           </div>
         </div>
 
-        {/* <!-- ================================ BLOG ========================== --> */}
-
-        <div id="blog">
-          <div className="blog-content">
-            <div className="blog-grid">
-              <div className="container">
-                <div className="row">
-                  <div className="col-md-12">
-                    <div className="main-title text-center wow fadeIn">
-                      <h3>My Blog</h3>
-                      <div className="underline1"></div>
-                      <div className="underline2"></div>
-                      <p>
-                        The Blog, Which has thoughts on life, work and
-                        everything in between.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="blog-details wow fadeIn text-left">
-                <div className="container">
-                  <div className="row">
-                    <div className="col-md-4 col-sm-6">
-                      <div className="blog-main">
-                        <a
-                          href="https://dev.to/pankajjajra/what-is-hooks-in-react-js-41l2"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          <img
-                            src="assets/img/blog/blog1.png"
-                            alt="React hooks were introduced in version 16.8"
-                            className="blog-img"
-                          />
-                        </a>
-                        <div className="blog-head">
-                          <a
-                            href="https://dev.to/pankajjajra/what-is-hooks-in-react-js-41l2"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{ textDecoration: "none" }}
-                          >
-                            <h3>
-                              <strong>
-                                What is the importance of hooks in React JS?
-                              </strong>
-                            </h3>
-                          </a>
-                        </div>
-                        <div className="blog-bottom">
-                          <p>
-                            In this article, you will learn what are hooks in
-                            React JS? and when to use react hooks? React JS is
-                            developed by Facebook in the year 2013. There are
-                            many students and the new developers who have
-                            confusion between react and hooks in react. Well, it
-                            is not different, react is a programming language
-                            and hooks is ...
-                          </p>
-                          <a
-                            href="https://dev.to/pankajjajra/what-is-hooks-in-react-js-41l2"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="about-link-2"
-                          >
-                            Read More
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="col-md-4 col-sm-6">
-                      <div className="blog-main">
-                        <a
-                          href="https://dev.to/pankajjajra/the-importance-of-ui-ux-software-engineering-1n0n"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          <img
-                            src="assets/img/blog/blog2.png"
-                            alt="The importance of UI/UX"
-                            className="blog-img"
-                          />
-                        </a>
-                        <div className="blog-head">
-                          <a
-                            href="https://dev.to/pankajjajra/the-importance-of-ui-ux-software-engineering-1n0n"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{ textDecoration: "none" }}
-                          >
-                            <h3>
-                              <strong>
-                                The importance of UI/UX | Software Engineering
-                              </strong>
-                            </h3>
-                          </a>
-                        </div>
-                        <div className="blog-bottom">
-                          <p>
-                            UI or User Interface is the interface that is the
-                            access point where users interact with computers. It
-                            is also a way through which users can interact with
-                            a website or an application. UI design typically
-                            refers to graphical user interfaces but also
-                            includes others, such as voice-controlled ones, a
-                            keyboard and the appearance ...
-                          </p>
-                          <a
-                            href="https://dev.to/pankajjajra/the-importance-of-ui-ux-software-engineering-1n0n"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="about-link-2"
-                          >
-                            Read More
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="col-md-4 col-sm-6">
-                      <div className="blog-main">
-                        <a
-                          href="https://dev.to/pankajjajra/form-example-in-laravel-8-45oc"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          <img
-                            src="assets/img/blog/blog3.png"
-                            alt="blog-img"
-                            className="blog-img"
-                          />
-                        </a>
-                        <div className="blog-head">
-                          <a
-                            href="https://dev.to/pankajjajra/form-example-in-laravel-8-45oc"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{ textDecoration: "none" }}
-                          >
-                            <h3>
-                              <strong>Form Example in Laravel 8</strong>
-                            </h3>
-                          </a>
-                        </div>
-                        <div className="blog-bottom">
-                          <p>
-                            Laravel 8 form example tutorial. In this post, i
-                            will teach from starting on how to send form data on
-                            controller and how to insert form data in database
-                            using laravel 8. If you are trying to create form
-                            and want to insert form data into database using
-                            laravel 8 latest version. So this post will help you
-                            to do this. Because in this post example, i will
-                            create contact-list ...
-                          </p>
-                          <a
-                            href="https://dev.to/pankajjajra/form-example-in-laravel-8-45oc"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="about-link-2"
-                          >
-                            Read More
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="row" style={{ textAlign: "center" }}>
-                      <a
-                        href="https://dev.to/pankajjajra"
-                        target="newtab"
-                        className="btn btn-warning"
-                        style={{
-                          width: "50%",
-                          fontSize: "16px",
-                          backgroundColor: "#efd236",
-                          borderColor: "#efd236",
-                          color: "black",
-                        }}
-                      >
-                        More Blog
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
 
         {/* <!-- ================================ CONTACT ========================== --> */}
 
